@@ -1,0 +1,2 @@
+# eyeofuchiha.github.io
+Mysite
